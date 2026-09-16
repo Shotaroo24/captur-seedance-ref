@@ -12,3 +12,4 @@ Seedance 2.5 に参考動画として渡すための置き場所です（API は
 - `PartyBox_v13_girl_720p.mp4`：v13 の女の子の場面（0〜6.5秒）。粗い無地の3D（水色の人形、灰色の机、ターコイズの箱、白い風船）。720×1280、24fps。6回目の @Video 1
 - `PartyBox_v13_ribbon_reference.mp4`：v13 のリボンだけの寄り（2.5秒、1280×720）。6回目の @Video 2
 - `PartyBox_v13_hero_720p.mp4`：v13 の Hero Shot（3.5秒、色分けした粗い小物）。720×1280。6回目の @Video 3
+- `PartyBox_v14_girl_720p.mp4`・`PartyBox_v14_ribbon_reference.mp4`・`PartyBox_v14_hero_720p.mp4`：v14（v13 に、笛の巻き紙と吹き口を本物の色に、風船の結び目の輪を削除、顔を照らすピンクのライトを消して箱の中の光を淡く弱めた版）。7回目の @Video 1〜3
